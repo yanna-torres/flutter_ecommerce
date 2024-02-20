@@ -20,6 +20,7 @@ dependencies:
   url_launcher: ^6.2.4
   get_storage: ^2.1.1
   flutter_native_splash: ^2.3.11
+  smooth_page_indicator: ^1.1.0
 
   # Icons & Fonts
   cupertino_icons: ^1.0.2
@@ -44,6 +45,6 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/images/
+    - assets/images/on_boarding_images/
     - assets/icons/
     - assets/logos/
